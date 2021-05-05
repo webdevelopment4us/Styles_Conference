@@ -1,0 +1,7 @@
+@font-face {
+    font-family: "Lobster";
+    src: local("Lobster"), url("https://fonts.googleapis.com/css?family=Lobster") format("woff");
+  }
+  body {
+    font-family: "Lobster", "Comic Sans", cursive;
+  }
